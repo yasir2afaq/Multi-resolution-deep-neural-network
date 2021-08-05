@@ -2,8 +2,8 @@
 MR-DNN: is based on deep learning used to extract rice field from Landsat 8 satellite imagery. Using publicly available satellite imagery data we train a convolutional neural net to predict rice fields in satellite images. MR-DNN achieved tremendous performance for the prediction of rice from Landsat 8 satellite imagery data.
 
 
-<img src= "https://user-images.githubusercontent.com/32522237/128299362-2e3a4403-793e-4a52-a503-5f59a40c1ee7.JPG" width= "49" )
-![MDRNN](https://user-images.githubusercontent.com/32522237/128299366-597380aa-6e88-493b-90c6-ed9584818c10.jpg)
+<img src= "https://user-images.githubusercontent.com/32522237/128299362-2e3a4403-793e-4a52-a503-5f59a40c1ee7.JPG" width= "49"> 
+<img src= "https://user-images.githubusercontent.com/32522237/128299366-597380aa-6e88-493b-90c6-ed9584818c10.jpg" width = "48">
 
 
 # Data Downloading
