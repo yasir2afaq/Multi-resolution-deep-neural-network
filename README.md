@@ -9,8 +9,9 @@ MR-DNN: is based on deep learning used to extract rice field from Landsat 8 sate
 # Data Downloading
 You can download the satellite imagery from the (https://scihub.copernicus.eu/) or USGS Earth Explorer (https://earthexplorer.usgs.gov/). The following are the entity IDs of the images we used. To find images by their ID first select the right dataset (in our case Landsat 8 30m) and then go to "Additional criteria". Here are some IDs as an example we used:
 
-**LC08_L2SP_139044_20181001_20200830_02_T1**
-**LC08_L2SP_148039_20190917_20200826_02_T1**
+LC08_L2SP_139044_20181001_20200830_02_T1
+
+LC08_L2SP_148039_20190917_20200826_02_T1
 
 # Dependencies
 1) python==3.7.4
